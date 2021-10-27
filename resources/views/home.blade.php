@@ -76,6 +76,7 @@
         <!-- Services-->
         <section class="page-section" id="services">
             <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
                 <h2 class="text-center mt-0">Navigasi Menuju ke MBK</h2>
                 <hr class="divider" />
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15800.647723813197!2d112.1764575!3d-8.0849629!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3e8ddfeb7e6b3d02!2sMakam%20Bung%20Karno!5e0!3m2!1sid!2sid!4v1635300527660!5m2!1sid!2sid" 
